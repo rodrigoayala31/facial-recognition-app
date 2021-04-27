@@ -1,4 +1,4 @@
-#Facial Recognition App
+# Facial Recognition App
 
 React application that conects to a face recognition API that allows
 the user to enter a photo from an URL and identify faces in the image.
